@@ -1,0 +1,1 @@
+[...document.children].forEach((child) => child.innerHTML = child.innerHTML.replace(/\/winter21/g, '/cs248/winter21'))
